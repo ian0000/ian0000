@@ -1,4 +1,4 @@
-# Hola, soy Ian K. 👋
+# Hola, soy IanK. 👋
 
 ### Desarrollo de software · Aplicaciones web y móviles
 
