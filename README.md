@@ -12,14 +12,19 @@ Construyo herramientas para resolver problemas concretos, con atención a la cla
 
 **[StockApp](https://github.com/ian0000/StockApp)** — Aplicación móvil para controlar inventario, costos y rentabilidad estimada de pequeños negocios, con un enfoque offline-first.
 
-## Proyectos y aprendizaje
+## Proyectos personales
 
-| Proyecto | Qué encontrarás |
-| --- | --- |
-| [StockApp](https://github.com/ian0000/StockApp) | Inventario y costos para pequeños negocios. |
-| UpTask · [Frontend](https://github.com/ian0000/UpTask_Frontend) / [Backend](https://github.com/ian0000/Uptask_backend) | Desarrollo full stack con MERN y TypeScript. |
-| [MSNOTES](https://github.com/ian0000/MSNOTES) | Notas y ejercicios de maestría, con proyectos en Java. |
-| [PicoPlacaPredictor](https://github.com/ian0000/PicoPlacaPredictor) | Consulta de restricciones de circulación por placa y horario, en C#. |
+- **[StockApp](https://github.com/ian0000/StockApp)** — Inventario y costos para pequeños negocios.
+- **[ReptileApp](https://github.com/ian0000/ReptileApp)** — Proyecto personal con frontend y backend en TypeScript.
+- **VZLegal** — Proyecto personal con repositorio privado.
+
+## Formación y práctica
+
+Estos repositorios recogen ejercicios, proyectos de cursos y aprendizaje académico:
+
+- **UpTask:** [Frontend](https://github.com/ian0000/UpTask_Frontend) y [Backend](https://github.com/ian0000/Uptask_backend), práctica con MERN y TypeScript.
+- **[MSNOTES](https://github.com/ian0000/MSNOTES):** notas y ejercicios de maestría.
+- **[PicoPlacaPredictor](https://github.com/ian0000/PicoPlacaPredictor):** ejercicio en C# sobre restricciones de circulación.
 
 ## Tecnologías
 
