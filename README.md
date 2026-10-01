@@ -16,7 +16,7 @@ Construyo herramientas para resolver problemas concretos, con atención a la cla
 
 - **[StockApp](https://github.com/ian0000/StockApp)** — Inventario y costos para pequeños negocios.
 - **[ReptileApp](https://github.com/ian0000/ReptileApp)** — Proyecto personal con frontend y backend en TypeScript.
-- **VZLegal** — Proyecto personal con repositorio privado.
+- **VZLegal** — Plataforma web para revisar y gestionar casos legales. En pruebas, con acceso restringido y repositorio privado.
 
 ## Formación y práctica
 
