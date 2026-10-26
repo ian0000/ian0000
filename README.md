@@ -10,11 +10,13 @@ Construyo herramientas para resolver problemas concretos, con atención a la cla
 
 ## En qué estoy trabajando
 
-**[StockApp](https://github.com/ian0000/StockApp)** — Aplicación móvil para controlar inventario, costos y rentabilidad estimada de pequeños negocios, con un enfoque offline-first.
+**[StockApp Web](https://stockapp-staging.ian-k.dev/)** — Inventario, compras, ventas y rentabilidad estimada para pequeños negocios desde el navegador. La Web está en pruebas UAT con datos ficticios; la app móvil queda en segundo plano como idea pendiente de lanzamiento, sin fecha comprometida.
+
+[Qué es y cómo funciona](https://ian-k.dev/stockapp/) · [Repositorio](https://github.com/ian0000/StockApp)
 
 ## Proyectos personales
 
-- **[StockApp](https://github.com/ian0000/StockApp)** — Inventario y costos para pequeños negocios.
+- **[StockApp Web](https://stockapp-staging.ian-k.dev/)** — Catálogo, existencias, compras, ventas e historial desde la Web; app móvil pendiente.
 - **[ReptileApp](https://github.com/ian0000/ReptileApp)** — Seguimiento de reptiles, alimentación, pesajes y notas, con una aplicación web en TypeScript.
 - **VZLegal** — Plataforma web para revisar y gestionar casos legales. En pruebas, con acceso restringido y repositorio privado.
 
